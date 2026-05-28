@@ -13,11 +13,13 @@ VDO Portal opens differently depending on which role you select at the intro scr
 
 ![VDO Portal Screenshot](https://github.com/jordanalbiar/vdo.portal/blob/main/Screenshot_20260526_225348.png?raw=true))
 
-###🟣 Host / Director — Purple
+# 🟣 Host / Director — Purple
 Opens the Director control panel, your personal broadcast window, the scene output, a mixer panel, and a chat window. This is the full production suite. As the host you can see and manage everyone connected to the room, arrange them in the mixer, and control what the scene output shows to viewers. The welcome guide explains each panel in plain terms for people who are new to VDO.Ninja.
-###🔵 Guest — Blue
+
+# 🔵 Guest — Blue
 Opens your broadcast window (your camera), the room scene, the mixer scene, and chat. Guests are participants in the call. Their broadcast link is automatically generated with your room name and display name, and the scene window shows you everything happening in the room.
-###🟢 Viewer — Green
+
+# 🟢 Viewer — Green
 Opens only the scene output, maximized to fill the canvas. Viewers watch the broadcast without joining as participants. No camera, no microphone, no presence in the director panel, just the output.
 
 ## Getting Started
